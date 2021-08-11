@@ -13,7 +13,7 @@ My name is Xuanjun Chen(陈炫均). I am currently a research assistant in Multi
 I am also a first-year M.S. student in the Department of Computer Science and Information Engineering at the [National Taiwan University](https://www.ntu.edu.tw/english/). Before coming to NTU, I received my B.S. degree in the Department of Computer Science and Information Engineering from the [National Taiwan University of Science and Technology](https://www.ntust.edu.tw) in 2020.
 
 
-# My main research interest revolves around making machines that can understand human language.
+<!--My main research interest revolves around making machines that can understand human language.-->
 
 <!-- Current and Past Affiliations
 ======== -->
