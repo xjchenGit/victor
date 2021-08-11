@@ -24,9 +24,9 @@ I am also a first-year M.S. student in the Department of Computer Science and In
 
 Education
 ======
-* M.S. in Computer Science and Information Engineering, National Taiwan University, 2022 (expected).
+* M.S. in Computer Science, National Taiwan University, 2022 (expected).
   * Overall GPA: 4.21/4.3; Supervisor: Professor [Jyh-Shing Roger Jang](http://mirlab.org/jang/cv/cv.asp).
-* B.S. in Computer Science and Information Engineering, National Taiwan University of Science and Technology, 2020.
+* B.S. in Computer Science, National Taiwan University of Science and Technology, 2020.
   * Overall GPA: 4.11/4.3
 
 Research Experience
