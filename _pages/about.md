@@ -47,4 +47,4 @@ Honors
 
 Volunteer
 =========
-* Jun 2019 - Aug 2019. 4th Cross-Strait Youth Maker Competition, Tongji University, Shanghai.
+* 4th Cross-Strait Youth Maker Competition, Tongji University, Shanghai, Jun 2019 - Aug 2019.
