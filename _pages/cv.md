@@ -27,7 +27,7 @@ Honors & Awards
 * **Academic Excellence Award (3 times)**, CSIE at NTUST, Fall’18, Fall’19, Spring’20.
 * **National Bronze Award**, 3rd China "Internet+" University Students Innovation and Entrepreneurship Contest, 2017.
 * **Provincial Gold Award**, 3rd China "Internet+" University Students Innovation and Entrepreneurship Contest, 2017.
-* **2nd Prize**, 4th “Challenge Cup” College Students’ Extracurricular Academic Sci & Tech Contest,SZIIT, 2017.
+* **2nd Prize**, 4th “Challenge Cup” College Students’ Extracurricular Academic Sci & Tech Contest, SZIIT, 2017.
 * **National Encouragement Scholarship**, SZIIT, 2016. 
 * **3rd Prize of Academic Award**, SZIIT, 2016.
 
