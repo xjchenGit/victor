@@ -23,7 +23,7 @@ Research experience
   
 Honors & Awards
 ======
-* 2020 - 2021 Academic Excellence Scholarship (2018 & 2019 Academic Year), World Kwong Tong Community Associations 
+* 2020 - 2021 **Academic Excellence Scholarship (2 times)**, World Kwong Tong Community Associations 
 * 2018 - 2020 Academic Excellence Award (Fall’2018, Fall’2019, Spring’2020), NTUST CSIE 
 * 2017 National Bronze Award ,3rd China "Internet+" University Students Innovation and Entrepreneurship Contest
 * 2017 Provincial Gold Award ,3rd China "Internet+" University Students Innovation and Entrepreneurship Contest
